@@ -9,4 +9,4 @@ This Power BI dashboard provides comprehensive insights into financial sales, re
 - Sales Performance Analysis – Track revenue growth and profitability
 - Key Performance Indicators (KPIs) – Monitor essential business metrics
 - Trend Analysis – Identify patterns and forecast sales performance
-- Dynamic Filtering & Drill-Throughs** – Interactive views for deeper insights.
+- Dynamic Filtering & Drill-Throughs – Interactive views for deeper insights.

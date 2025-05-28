@@ -1,8 +1,8 @@
-# Financial Sales & Report Dashboard
+Sales Report 
 
 ## Overview
 
-Welcome to the Financial Sales & Report Dashboard repository!
+Welcome to the Sales Report Power BI Dashboard repository!
 This Power BI dashboard provides comprehensive insights into financial sales, revenue trends, and key performance indicators. The goal is to enhance data-driven decision-making with interactive visualizations and analytics.
 
 ## Features

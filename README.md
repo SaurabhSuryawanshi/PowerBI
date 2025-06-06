@@ -1,11 +1,11 @@
 Sales Report 
 
-## Overview
+# Overview
 
 Welcome to the Sales Report Power BI Dashboard repository!
 This Power BI dashboard provides comprehensive insights into financial sales, revenue trends, and key performance indicators. The goal is to enhance data-driven decision-making with interactive visualizations and analytics.
 
-## Features
+# Features
 - Sales Performance Analysis – Track revenue growth and profitability
 - Key Performance Indicators (KPIs) – Monitor essential business metrics
 - Trend Analysis – Identify patterns and forecast sales performance
